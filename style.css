@@ -45,10 +45,3 @@ b{
 button{
     margin-top:5%
 }
-button:hover{
-    background-color:black;
-    color:white;
-    border-radius:6%;
-    height:10%;
-    transition:0.5s;
-}
