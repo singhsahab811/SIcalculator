@@ -1,4 +1,54 @@
-body {background-color:tan;}
-h1{color:green;}
-
-
+body {
+    background-color:black;
+    font-family:arial;
+    color:white
+}
+h1{
+    color:grey;
+    font-family:verdana;
+    padding-left:2%;
+}
+.maindiv {
+    background-color:white;
+    color:black;
+    width:500px;
+    /* height:500px; */
+    padding:20px;
+    border-radius:25px;
+    align:center;
+}
+#result{
+    padding-top:5%;
+}
+#subdiv{
+    padding-left:20%;
+}
+footer{
+    padding-top:5%;
+}
+b{
+    margin-top:5%
+    
+}
+#years{
+    margin-left:6.8%;
+    margin-top:5%
+}
+#principal{
+    margin-left:14.5%;
+    margin-top:5%
+}
+#rate{
+    margin-left:21%;
+    margin-top:5%
+}
+button{
+    margin-top:5%
+}
+button:hover{
+    background-color:black;
+    color:white;
+    border-radius:6%;
+    height:10%;
+    transition:0.5s;
+}
